@@ -3,5 +3,5 @@
 - 🌱 I'm currently studying Computer Engineering at Queens University
 - 💬 I'm based out of Calgary, AB
 - 📫 I've taken courses in Java, C++, C and Python
-- 💲 I've got ceritificates in Python Machine Learning, and SQL, Microsoft Azure, Blue Prism RPA 
+- 💲 I've got ceritificates in Python Machine Learning, SQL, Microsoft Azure, and Blue Prism RPA 
 - ⚡ I am always interested in learning more
