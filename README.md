@@ -1,7 +1,6 @@
 ### Lucas Krayacich
 
 - Primary ML Engineer at Light.AI (Series A)
-- Specialized in training medical-grade diagnostic models
-- Built ML training testing monitoring platforms in Databricks AWS Azure
+- Co-inventor on [LGHT-003 ... AI-POWERED INFECTION DETECTION] Patent
 - Based out of Calgary, AB and Vancouver, BC
 - Queen's U Computer Engineering grad (Dean's Scholar + Academic Excellence Scholarship)
