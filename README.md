@@ -1,6 +1,6 @@
 ### Lucas Krayacich
 
-- Primary ML Engineer at Light.AI
+- Primary ML Engineer at Light.AI (Series A)
 - Specialized in training medical-grade diagnostic models
 - Built ML training testing monitoring platforms in Databricks AWS Azure
 - Based out of Calgary, AB and Vancouver, BC
